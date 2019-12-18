@@ -1,0 +1,1 @@
+export const AboutComponent = '<div>about</div>';

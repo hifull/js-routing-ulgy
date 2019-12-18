@@ -1,0 +1,1 @@
+export const PostComponent = '<div>Post</div>'

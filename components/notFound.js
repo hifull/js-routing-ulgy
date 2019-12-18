@@ -1,0 +1,1 @@
+export const NotFoundComponent = '<a routerLink="/">На главную</a>'

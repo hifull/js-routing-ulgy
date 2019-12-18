@@ -1,0 +1,1 @@
+export const UserComponent = '<div>about</div>';
